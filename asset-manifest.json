@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calculator-challenge/static/css/main.ee2238c7.chunk.css",
+    "main.js": "/calculator-challenge/static/js/main.ac0a242a.chunk.js",
+    "main.js.map": "/calculator-challenge/static/js/main.ac0a242a.chunk.js.map",
+    "runtime-main.js": "/calculator-challenge/static/js/runtime-main.ab6e6db2.js",
+    "runtime-main.js.map": "/calculator-challenge/static/js/runtime-main.ab6e6db2.js.map",
+    "static/js/2.a6fe070a.chunk.js": "/calculator-challenge/static/js/2.a6fe070a.chunk.js",
+    "static/js/2.a6fe070a.chunk.js.map": "/calculator-challenge/static/js/2.a6fe070a.chunk.js.map",
+    "static/js/3.9aec9c3b.chunk.js": "/calculator-challenge/static/js/3.9aec9c3b.chunk.js",
+    "static/js/3.9aec9c3b.chunk.js.map": "/calculator-challenge/static/js/3.9aec9c3b.chunk.js.map",
+    "index.html": "/calculator-challenge/index.html",
+    "static/css/main.ee2238c7.chunk.css.map": "/calculator-challenge/static/css/main.ee2238c7.chunk.css.map",
+    "static/js/2.a6fe070a.chunk.js.LICENSE.txt": "/calculator-challenge/static/js/2.a6fe070a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab6e6db2.js",
+    "static/js/2.a6fe070a.chunk.js",
+    "static/css/main.ee2238c7.chunk.css",
+    "static/js/main.ac0a242a.chunk.js"
+  ]
+}
